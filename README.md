@@ -30,7 +30,7 @@ O usuário também pode ajustar os limiares no através do software *Blynk* no c
 
 **Hardware:**
 
-Protoboard, NodeMCU, Potenciômetro 10K, Led RGB, Buzzer, Sensor de temperatura, borne, jumpers e um cabo de alimentação USB.
+Protoboard, NodeMCU, Potenciômetro 10K, Display LCD, Led RGB, Buzzer, Sensor de temperatura, borne, jumpers e um cabo de alimentação USB.
 
 **Software:**
 
