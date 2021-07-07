@@ -41,7 +41,7 @@ https://blynk.io
 
 
 **Quanto custou?**
-Cerca de R$100,00
+Cerca de R$150,00
 
 
 **Quanto tempo levei para concluir o protótipo?**
