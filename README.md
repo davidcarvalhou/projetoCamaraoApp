@@ -5,7 +5,11 @@ Este foi um projeto feito para uma Iniciação Científica na UFRPE.
 Com a necessidade de produção de camarões em escala e com qualidade, após pesquisas, descobriu-se que os camarões se desenvolvem melhor quando mantidos em temperaturas
 entre 25 e 28ºC.
 
-Dada esta informação surgiu com a orientação do Professor Obionor Nóbrega, a ideia de construção de um sistema para monitoramento da temperatura da água em tempo real para camarões criados em cativeiro (Carcinicultura).
+Dada esta informação, surgiu com a orientação do Professor Obionor Nóbrega, a ideia de construção de um sistema para monitoramento da temperatura da água em tempo real para camarões criados em cativeiro (Carcinicultura).
+
+Saiba mais em:
+https://www.engepesca.com.br/post/carcinicultura-fatores-indispensaveis-para-o-sucesso-do-negocio
+
 
 Com meus conhecimentos de hardware e programação, criei esta solução e a chamei de Camarão App.
 
@@ -15,10 +19,12 @@ Com meus conhecimentos de hardware e programação, criei esta solução e a cha
 
 A solução monitora  a temperatura da água em tempo real, caso a temperatura ultrapasse o pré-configurado pelo usuário, um alerta é emitido tanto no hardware (Luminoso e sonoro) quanto no software (Luminoso e gráfico).
 
+
 **Como funciona?**
 A solução inicializa com um limiar máximo  e mínimo de temperatura e inicia o monitoramento em ºC. 
 
 O usuário também pode ajustar os limiares no através do software *Blynk* no celular e confirmar as temperaturas desejadas. E verificar o gráfico plotado em tempo real e a temperatura ºC.
+
 
 **Quais foram as tecnologias utilizadas no projeto?**
 
@@ -33,8 +39,10 @@ https://www.arduino.cc
 
 https://blynk.io
 
+
 **Quanto custou?**
 Cerca de R$100,00
+
 
 **Quanto tempo levei para concluir o protótipo?**
 15 dias
