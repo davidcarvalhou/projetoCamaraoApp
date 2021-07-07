@@ -2,9 +2,10 @@
 
 Este foi um projeto feito para uma Iniciação Científica na UFRPE.
 
-Com a necessidade de produção em escala e com qualidade, pesquisadores procuram sempre melhorar este cenário.
+Com a necessidade de produção de camarões em escala e com qualidade, após pesquisas, descobriu-se que os camarões se desenvolvem melhor quando mantidos em temperaturas
+entre 25 e 28ºC.
 
-Dada esta informação surgiu com a orientação do Professor Obionor Nóbrega, a ideia de construção de um sistema para monitoramento da qualidade da água para camarões criados em cativeiro (Carcinicultura).
+Dada esta informação surgiu com a orientação do Professor Obionor Nóbrega, a ideia de construção de um sistema para monitoramento da temperatura da água em tempo real para camarões criados em cativeiro (Carcinicultura).
 
 Com meus conhecimentos de hardware e programação, criei esta solução e a chamei de Camarão App.
 
