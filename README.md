@@ -1,6 +1,7 @@
 # Projeto Camarão App - IoT :shrimp:
 
 ![image](https://user-images.githubusercontent.com/48811215/180436016-f2187fd9-387d-46bf-9bfd-3576f9fc15ca.png)
+![image](https://user-images.githubusercontent.com/48811215/180436128-30fc9886-fa38-4e0c-bc10-678ef5452f20.png)
 
 
 Este foi um projeto feito para uma Iniciação Científica na UFRPE.
