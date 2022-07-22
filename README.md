@@ -1,5 +1,8 @@
 # Projeto Camarão App - IoT :shrimp:
 
+![image](https://user-images.githubusercontent.com/48811215/180436016-f2187fd9-387d-46bf-9bfd-3576f9fc15ca.png)
+
+
 Este foi um projeto feito para uma Iniciação Científica na UFRPE.
 
 Com a necessidade de produção de camarões em escala e com qualidade, após pesquisas, descobriu-se que os camarões se desenvolvem melhor quando mantidos em temperaturas
